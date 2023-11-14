@@ -28,6 +28,7 @@ if st.sidebar.button("load dataset"):
 if st.sidebar.button("load description"):  
  st.write(df.describe())
 
+
 if st.sidebar.button("load description1"):  
  st.write(df.describe())
 
